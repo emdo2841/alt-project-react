@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div>
       <Center>
-        <Box boxSize="lg" mt="4rem"  p={4} border="1px solid #ccc" borderRadius="10px" bg="white" h='35rem'>
+        <Box boxSize="lg" mt="3rem"  p={4} border="1px solid #ccc" borderRadius="10px" bg="white" h='30rem'>
           <Center>
             <img
               width={200}
@@ -23,11 +23,7 @@ const About = () => {
             specialize in JavaScript (React.js/Vue.js) for frontend development
             and Node.js (Express.js) for backend services. I also have hands-on
             experience with relational and nonrelational databases such as
-            MongoDB, and MySQL. I am versatile with ORMs like Mongoose and
-            Sequealize, along with proficiency in HTML/CSS and RESTful APIs.
-            Proficiency in Implementing user authentication and authorization
-            using techniques like JWT (JSON Web Tokens) or OAuth and JOI for
-            user input validation.
+            MongoDB, and MySQL.
           </Container>
         </Box>
       </Center>

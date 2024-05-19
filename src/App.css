@@ -11,14 +11,14 @@
   margin-top: 10px;
 }
 .body{
-  min-height: 130\vh;
+  min-height: 100vh;
   background-image: url(../src/Component/image/web\ bg\ 2.avif);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .unlist li{
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
   text-transform: capitalize;
 }
