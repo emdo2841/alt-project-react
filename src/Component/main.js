@@ -70,7 +70,7 @@ const Main = () => {
   return (
     <div>
       <Center>
-        <Heading mt="15px">My Github Repository</Heading>
+        <Heading mt="13px">My Github Repository</Heading>
       </Center>
       <Box>
         <Center>
